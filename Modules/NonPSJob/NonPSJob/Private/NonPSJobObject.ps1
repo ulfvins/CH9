@@ -1,4 +1,4 @@
-Class NoPSJob
+Class NonPSJob
 {
     [string]$Title
     [string]$Workplace
